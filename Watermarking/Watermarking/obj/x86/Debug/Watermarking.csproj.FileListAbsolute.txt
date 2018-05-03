@@ -1,0 +1,5 @@
+/Users/nakama/FH/4. Semester/Krypto/Task5/Watermarking/Watermarking/obj/x86/Debug/Watermarking.csproj.CoreCompileInputs.cache
+/Users/nakama/FH/4. Semester/Krypto/Task5/Watermarking/Watermarking/bin/Debug/Watermarking.exe
+/Users/nakama/FH/4. Semester/Krypto/Task5/Watermarking/Watermarking/bin/Debug/Watermarking.pdb
+/Users/nakama/FH/4. Semester/Krypto/Task5/Watermarking/Watermarking/obj/x86/Debug/Watermarking.exe
+/Users/nakama/FH/4. Semester/Krypto/Task5/Watermarking/Watermarking/obj/x86/Debug/Watermarking.pdb
